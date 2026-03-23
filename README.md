@@ -1,13 +1,13 @@
 # E-Commerce Sales Analysis (SQL)
 
-# Project Overview
+## Project Overview
 This project analyzes e-commerce sales data using SQL to find useful business insights.
 
-# Tools Used
+## Tools Used
 - MySQL
 - SQL
 
-# Dataset
+## Dataset
 The dataset contains:
 - InvoiceNo
 - StockCode
@@ -20,7 +20,7 @@ The dataset contains:
 
 Note: The original dataset is large, so a sample of the data was used for analysis.
 
-# Steps Performed
+## Steps Performed
 - Data cleaning (removed invalid records)
 - Created revenue column
 - Performed sales analysis using SQL queries
@@ -33,14 +33,14 @@ Note: The original dataset is large, so a sample of the data was used for analys
 - Monthly sales trend
 - Top customers
 
-# Key Insights
+## Key Insights
 - Top selling product: (add your result)
 - Highest revenue product: (add your result)
 - Top country: (add your result)
 - Best customer: (add your result)
 - Peak sales month: (add your result)
 
-# Files
+## Files
 - project.sql
 - ecommerce_sample_data.csv
 
